@@ -1,5 +1,5 @@
 # Networking-Project
-Cisco Packet Tracer Project, Networking Project.
+Cisco Packet Tracer Project - Networking Project.
 
 ![Topology](https://github.com/gg3n/Networking-Project/assets/168769061/c59b0978-395f-4311-9698-d76e99cc59de)
 
